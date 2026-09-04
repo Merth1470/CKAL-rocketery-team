@@ -1,0 +1,51 @@
+UKB
+
+Ebyte E22-900T30S LoRa modülü – 10 km’ye kadar menzil 
+
+ESP32-S3 mikrodenetleyici – çift çekirdekli, Wi-Fi + Bluetooth destekli 
+
+u-blox SAM-M10Q GNSS modülü – yüksek hassasiyetli konum verisi 
+
+BMP390- basinc
+
+BMP585- basinc
+
+hiz/ivme:LSM6DSOX 
+
+HOLTEK HT7833- regulator
+
+IRLZ44N MOSFET
+
+Turnigy 2200mAh 1S 20C
+
+Cree XLamp XPG-3-isik 
+
+110dB SFM-27 Aktif Piezo Siren- ses
+
+HOLTEK HT7833- regulator
+
+Turnigy 2200mAh 1S 20C
+
+PAYLOAD
+
+Ebyte E22-900T30S LoRa modülü – 10 km’ye kadar menzil 
+
+ESP32-S3 mikrodenetleyici – çift çekirdekli, Wi-Fi + Bluetooth destekli 
+
+u-blox SAM-M10Q GNSS modülü – yüksek hassasiyetli konum verisi 
+
+BMP390- basinc
+	
+SHT45-sicaklik
+
+Cree XLamp XPG-3-isik 
+
+110dB SFM-27 Aktif Piezo Siren- ses
+
+HOLTEK HT7833- regulator
+
+Turnigy 2200mAh 1S 20C
+
+
+
+
